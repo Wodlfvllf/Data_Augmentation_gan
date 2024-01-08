@@ -28,13 +28,13 @@ pip install -r requirements.txt
 ```
 
 ## Training
--To train the frame interpolation model, run:
+To train the frame interpolation model, run:
 ```bash
 python train.py
 ```
 
 ## Training
--To generate interpolated frames using the trained model, run:
+To generate interpolated frames using the trained model, run:
 ```bash
 python generate.py
 ```
